@@ -40,7 +40,7 @@ music = {
 3. Install the required libraries (listed above).
 4. Run the program:
 ```bash
-python jarvis_assistant.py
+python main.py
 ```
 ## How to Use
 1. Run the program and it will initialize with a voice prompt saying "Initializing Jarvis....".
